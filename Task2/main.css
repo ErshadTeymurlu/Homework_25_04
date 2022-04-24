@@ -1,0 +1,9 @@
+.top{
+    font-weight: bolder;
+}
+.afterLine{
+    white-space: pre;
+}
+#lastInput{
+    background:rgba(128, 128, 128, 0.322)
+}

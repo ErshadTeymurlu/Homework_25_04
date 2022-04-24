@@ -1,0 +1,21 @@
+.form{
+    line-height: 1.7em;
+}
+.Name{
+    padding-right: 50px;
+}
+.Surname{
+    padding-right: 32px;
+}
+.City{
+    padding-right: 60px;
+}
+.State{
+    padding-right: 55px;
+}
+.Zip{
+    padding-right: 65px;
+}
+.Magazine{
+    padding-right: 25px;
+}

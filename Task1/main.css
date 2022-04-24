@@ -1,0 +1,12 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.CenterImg{
+    padding-left: 490px;
+    height: 65vh;
+    width: 320px
+    
+}
+.italic{
+    font-style: italic;
+}
